@@ -5,29 +5,29 @@
 body {
     background-color: #ddd;
 }
-#conteudo {
+#conteudo{
     width: 800px;
     margin: 0 auto;
     background-color: white;
     border: 1px solid #333;
     padding: 10px;
 }
-.cancelado {
+.cancelado{
     text-decoration: line-through;
 }
 
-ul li {
+ul li{
     color: blue;
 }
 
-#conteudo > ul > li {
+#conteudo > ul > li{
     margin: 0 0 20px 0;
 } 
-    ul + p {
+    ul + p{
      color: red; 
 }
 
-ul ~ p {
+ul ~ p{
     font-style: italic;
 }
 
