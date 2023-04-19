@@ -2,21 +2,21 @@ div{
     width: 200px;
     height: 100px;
     margin: 10px;
-    border: 5xp blak dashed;
+    border: 5xp black dashed;
 }
 #div1 {
     background-color: yellow;
 }
-div2 {
+#div2 {
     background-color: #c1a4cd;
     background-clip: padding-box;
 }
 #div3 {
-    background-image: url("http:/icons.veryicon.com/128/File Type/Mnemo Filetype/css.png");
+    background-image: url("http://icons.veryicon.com/128/File Type/Mnemo Filetype/css.png");
     background-repeat: no-repeat;
 }
 #div4 {
-    background-image: ("http://icons.veryicon.com/128/File Type/Mnemo Filetype/css.png");
+    background-image: url("http://icons.veryicon.com/128/File Type/Mnemo Filetype/css.png");
     background-repeat: no-repeat;
     background-origin: border-box;
 }

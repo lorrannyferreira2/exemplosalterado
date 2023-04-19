@@ -2,7 +2,7 @@ li {
     border: 2px black solid;
     width: 400px;
 }
-#ull {
+#ul1 {
     list-style-type: square;
     list-style-position: inside;
 }
